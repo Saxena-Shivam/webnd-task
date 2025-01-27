@@ -157,6 +157,9 @@ body {
 }
 .boxes details summary:hover {
   cursor: pointer;
+  background-color: #333;
+  color: #1adbb1;
+  transform: rotate(0deg);
 }
 .boxes details summary:focus {
   border: 3px solid #1adbb1;
